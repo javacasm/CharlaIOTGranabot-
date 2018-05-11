@@ -7,6 +7,7 @@ José Antonio Vacas @javacasm
 ## https://github.com/javacasm/CharlaIOTGranabot-
 
 
+
 * [Introducción a Internet de las Cosas](IOT.md) (IOT)
 * Uso de placa wifi [NodeMCU](./NodeMCU.md) y el [shield de motores](./MotorShield.md) con el [IDE de Arduino](./ConfiguracionIDE.md)
 * Familias del ESP8266
