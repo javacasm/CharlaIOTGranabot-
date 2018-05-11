@@ -4,7 +4,9 @@
 
 José Antonio Vacas @javacasm
 
-## https://github.com/javacasm/CharlaIOTGranabot-
+![CC](https://raw.githubusercontent.com/javacasm/ArduinoAvanzadoDE2017/master/images/Licencia_CC_peque.png)
+
+## https://github.com/javacasm/IOT_Granabot
 
 
 
@@ -93,7 +95,7 @@ José Antonio Vacas @javacasm
     [Código](./codigo/ESP_MeteoServer/ESP_MeteoServer.ino)
 
 
-## Sesión 6 10-Abril
+## Ejemplos
 * Control de dispositivos via Wifi:
   * [Relé controlado via web](./codigo/ControlRelesWeb) [(ZIP)](./codigo/ControlRelesWeb.zip)
 
@@ -125,7 +127,6 @@ Servidor
 Subscripción
 
     mosquitto_sub -t "casa/habitaciones/#" -v -A 192.168.1.7
-
 
 
 
@@ -206,14 +207,3 @@ Usa MQTT
 * WifiManager: Librería
 * Hora via [NTP](./codigo/NTP) Ejemplo que nos permite recuperar la hora actual via Internet
 * [Proyectos con varios ficheros](ProyectoVariosFicheros/README.md)
-
-### Recursos complementarios
-
-* [Manejo de puertos en paralelo](./Repaso/1.2.1_ProgramacionAvanzadaPuertos.pdf) (Registros)
-* [Control de potencia](./Repaso/ElectrónicaPotencia.pdf)
-* Control de motores
-  * [Motores CC](./Repaso/2.1.4_Motores.pdf)
-  * [Paso a paso](./Repaso/stepper.md)
-* [Lectura de tarjertas RFID](./RFid.md)
-* [Control con Infrarrojos](./Repaso/3.7_Infrarrojos.pdf)
-* Lectura de [tiempos (RTC)](./Repaso/4.2_RTC.pdf)
