@@ -39,7 +39,34 @@ José Antonio Vacas @javacasm
 
 #### EveryThing!!!
 
+![http://robotechlabs.com/wp-content/uploads/2015/08/Iot.png](http://robotechlabs.com/wp-content/uploads/2015/08/Iot.png)
+
 ¿Recuerdas el cambio de IPV4 a IPV6?
+
+### ¿Quién trabaja con IOT?
+
+![detalles](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final_r-1024x744.png)
+
+
+[[Informe]](http://mattturck.com/iot2018/) [[Detalles]](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+
+#### Por ejemplo Xiaomi
+
+![domotica](https://ae01.alicdn.com/kf/HTB1tiMxSpXXXXaIXpXXq6xXFXXX4/Original-Xiaomi-Mi-Smart-Home-Series-Internet-of-Things-IoT-WiFi-Zigbee-Bluetooth-Socket-Strip-Sensor.jpg_640x640.jpg)
+
+![domotica 2](https://sc02.alicdn.com/kf/HTB1lph1awsSMeJjSspc760jFXXaD/231105512/HTB1lph1awsSMeJjSspc760jFXXaD.png)
+
+![cocina](https://i.blogs.es/76bc0e/xiaomi-cocina/1366_2000.jpg)
+
+### ¿Algún dispositivo Maker?
+
+
+#### Sonoff (Itead Studio)
+
+
+![Sonoff](https://programarfacil.com/wp-content/uploads/2018/03/sonoff-wifi-rf.jpg)
+
+[Tutorial sobre Sonoff de @programarfacil](https://programarfacil.com/esp8266/domotica-sonoff-wifi-espurna/)
 
 ### Qué le pedimos al IOT
 
@@ -52,20 +79,19 @@ José Antonio Vacas @javacasm
     * Envía los datos  a la central
     * Cuando el nivel es el adecuado se activa el robot de limpieza en determinada zona
 
-* ¿Caótico o complejo?
 
-## ¿Por qué hacerse un IOT?
+## [LoraWAN](https://es.wikipedia.org/wiki/LoRaWAN)
+
+![Lora](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Multitech-Conduit-y-mDot.jpg/330px-Multitech-Conduit-y-mDot.jpg)
 
 
-## Pero ¿Cuánto cuesta?
+[Tutorial @bricolabs](https://bricolabs.cc/wiki/guias/lora_ttn)
 
-Un sistema con Arduino+wifi puede costarnos unos 50€ (más los actuadores)
+
 
 ## ¿Cómo hacerse un IOT?
 
-¿Qué necesito?
-
-## [Arquitectura de un sistema completo IOT](https://polaridad.es/grafica-sensor-internet-de-las-cosas-iot/#estructura-html-grafica-svg - CC BY.SA 3.0)
+## [Arquitectura de un sistema completo IOT](https://polaridad.es/grafica-sensor-internet-de-las-cosas-iot/#estructura-html-grafica-svg)
 
 ![iot](https://polaridad.es/wp-content/uploads/2016/04/Esquema-presentaci%C3%B3n-datos-internet-de-las-cosas-IoT-con-JavaScript-en-una-p%C3%A1gina-web-HTML-con-JavaScript.png)
 (Imagen cortesia de Victor Ventura - https://polaridad.es/grafica-sensor-internet-de-las-cosas-iot/#estructura-html-grafica-svg)
@@ -92,14 +118,21 @@ https://www.wemos.cc/product/relay-shield.html
 
   ![nodeMCU](https://github.com/javacasm/NodeMCU-tutorial/raw/master/images/MiNodeMCU_pcb.jpg)
 
-* ESP32
+* [ESP32](https://en.wikipedia.org/wiki/ESP32)
+
+
+![Comparativa](https://cdn.shopify.com/s/files/1/0672/9409/files/coparison_between_esp32_esp32_esp8266_large.jpg?v=1501546029)
+
+[Comparativa ESP8266 vs ESP32](http://blog.bricogeek.com/noticias/electronica/comparativa-y-analisis-completo-de-los-modulos-wifi-esp8266-y-esp32/)
 
 Mi elección a día de hoy: [Wemos](https://github.com/javacasm/WeMos_ESP8266)
 
 ![wemos](https://github.com/javacasm/WeMos_ESP8266/raw/master/images/pcb.jpg)
 
 
-### ¿Puedo usar arduino? [SI](https://programarfacil.com/esp8266/como-programar-nodemcu-ide-arduino/)
+### ¿Puedo usar arduino?
+
+[SI](https://programarfacil.com/esp8266/como-programar-nodemcu-ide-arduino/)
 
 [¿Cómo se hace?](https://github.com/javacasm/ESP-Tutorial)
 
