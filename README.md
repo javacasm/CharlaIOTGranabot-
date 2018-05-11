@@ -10,7 +10,8 @@ José Antonio Vacas @javacasm
 
 
 
-* [Introducción a Internet de las Cosas](IOT.md) (IOT)
+## [Introducción a Internet de las Cosas](IOT.md) (IOT)
+
 * Uso de placa wifi [NodeMCU](./NodeMCU.md) y el [shield de motores](./MotorShield.md) con el [IDE de Arduino](./ConfiguracionIDE.md)
 * Familias del ESP8266
 
@@ -79,6 +80,7 @@ José Antonio Vacas @javacasm
      * Usaremos el ejemplo ESPWebServer->HelloServer
      * Vamos a modificarlo para que incluya los datos del sensor:
 
+     ![codigoHTML](./images/codigoHTML.png)
 
 
         void handleRoot() {
@@ -92,7 +94,10 @@ José Antonio Vacas @javacasm
             }
 
 
-    [Código](./codigo/ESP_MeteoServer/ESP_MeteoServer.ino)
+
+
+
+[Código](./codigo/ESP_MeteoServer/ESP_MeteoServer.ino)
 
 
 ## Ejemplos
